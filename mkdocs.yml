@@ -1,0 +1,6 @@
+
+site_name: Currículum Deportivo de Diego Carmona Ruiz
+nav:
+    - Inicio: index.md
+    - Biografía: biografia.md
+    - Logros: logros.md
